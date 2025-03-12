@@ -1,4 +1,4 @@
-# Reinforcment-learning_educational-purpose
+
 # Reinforcement Learning: Q-Learning in FrozenLake Environment
 
 ## About This Project
